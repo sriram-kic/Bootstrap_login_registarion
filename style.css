@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap'); 
+  body {  
+    font-size:100%;
+    font:inherit;
+    font-family:Inter,sans-serif;
+    background:#fff;
+    line-height:1;
+    color:#333;
+    font-weight:400;
+  }  
+@media (min-width: 1280px){     
+  body {  
+    background-image:url("data:image/svg+xml,%3Csvg width=%271860%27 height=%271900%27 fill=%27none%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath d=%27M1063.43 12.6364c367.16 45.007 687.98 304.0646 794.88 679.0506 3.46 11.402-3.7 23.608-15.24 26.616l-57.69 15.041c120.54 462.306-157.08 934.396-619.51 1054.966l15.02 57.61c3.01 11.53-4.16 23.73-15.82 26.28-49.7 11.73-99.44 19.33-148.84 23-22.388 3.12-49.462 4.71-81.749 4.71-444.176 0-809.937-314.15-908.1237-729.65-.0771-.29-.1482-.58-.213-.88-10.7156-45.42-17.9662-90.87-21.9148-136.07C1.6958 1004.77.4023.3519.4023.3519H948.027c50.826 0 88.603 4.2072 115.403 12.2845z%27 fill=%27%23fff%27/%3E%3C/svg%3E");
+  }  
+}  
+div { 
+    border: 0; 
+    font-size: 100%; 
+    font: inherit; 
+    margin: 0; 
+    padding: 0; 
+    vertical-align: initial;
+} 
+
+body { 
+    border: 0; 
+    font-size: 100%; 
+    font: inherit; 
+    margin: 0; 
+    padding: 0; 
+    vertical-align: initial;
+} 
+
+body { 
+    line-height: 1;
+} 
+
+body { 
+    background: #fff; 
+    color: #333; 
+    font-family: Inter,sans-serif; 
+    font-weight: 400; 
+    min-height: 100%;
+} 
+
+body { 
+    width: 100%;
+} 
+
+body { 
+    background-color: #fff; 
+    min-width: auto; 
+    color: #333; 
+    font-family: Inter,sans-serif; 
+    --bg-color: #e3f6ff;
+} 
+
+body { 
+    height: 100%;
+} 
+
+html { 
+    border: 0; 
+    font-size: 100%; 
+    font: inherit; 
+    margin: 0; 
+    padding: 0; 
+    vertical-align: initial;
+} 
+
+html { 
+    font-size: 12px; 
+    height: 100%;
+} 
+
+html { 
+    height: 100%;
+} 
+
+:root { 
+    -moz-osx-font-smoothing: auto!important; 
+    -webkit-font-smoothing: auto!important;
+} 
+
+.SidebarImageContent__info--D_hr4 { 
+    display: none;
+} 
+
+@media (min-width: 1280px){ 
+  .SidebarImageContent__info--D_hr4 { 
+    height: 100%; 
+    display: grid; 
+    grid-template-rows: auto; 
+    grid-template-areas: "top" "middle" "bottom"; 
+    justify-content: center; 
+    align-items: center;
+  } 
+}     
+
+img { 
+    border: 0; 
+    font-size: 100%; 
+    font: inherit; 
+    margin: 0; 
+    padding: 0; 
+    vertical-align: initial;
+} 
+
+@media (min-width: 1280px){ 
+  .SidebarImageContent__info--D_hr4 .SidebarImageContent__image--DQLjE  { 
+    grid-area: middle; 
+    width: var(--image-width); 
+    height: auto; 
+    margin: auto;
+  } 
+
+  .SidebarImageContent__info--D_hr4 .SidebarImageContent__image--DQLjE  { 
+    -ms-grid-row: 2; 
+    -ms-grid-column: 1;
+  } 
+}     
+
+
